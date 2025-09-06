@@ -1,3 +1,5 @@
+                                   HTML CODE
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,6 +87,9 @@
 </body>
 </html>
 
+
+
+                            CSS code
 
 body {
     background: linear-gradient(135deg, #ffeaa7, #fab1a0, #fd79a8);
